@@ -1,3 +1,3 @@
-print("Git Solo Tutorial")
-print("Ella Chen")
-print("Winter 2024")
+Git Solo Tutorial
+Ella Chen
+Winter 2024
